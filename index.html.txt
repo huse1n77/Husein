@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>My Favorites</title>
+    <style>
+        body {
+            background-color:lightblue;
+        }
+        header {
+            background-color:lightblue;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+        .favorite {
+            background-color: white;
+            width: 70%;
+            margin: 20px auto;
+ 
+ 
+        }
+
+        .favorite h2 {
+            color: darkblue;
+        }
+
+        .favorite img {
+            width: 270px;
+            height: 150px;
+            border-radius: 10px;
+        }
+
+        a {
+            color: darkblue;
+            font-size: 20px;
+        }
+        a:hover {
+            color: black;
+        }
+
+        footer {
+            background-color: darkblue;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>MY FAVORITES</h1>
+</header>
+
+<p style="text-align: center; font-size: 20px;">
+    <b>Hello, welcome to my page!</b><br>
+    These are some of my favorite things.
+</p>
+
+
+<div class="favorite">
+    <h2>🎬 Favorite Animation</h2>
+    <p>
+        <a href="https://www.hdfilmizle.vip/dizi/berserk/sezon-1/bolum-1/">
+            Berserk
+        </a>
+    </p>
+    <img src="C:\Users\LENOVO\Pictures\lll.jpeg">
+</div>
+
+
+<div class="favorite">
+    <h2>🎨 Favorite Color</h2>
+
+    <p><b>Blue</b></p>
+
+    <img src="C:\Users\LENOVO\Downloads\Blue.jpg">
+</div>
+
+
+<div class="favorite">
+    <h2>🍕 Favorite Food</h2>
+
+    <p>
+        <a href="https://resept.az/sosiskali-pizza/">
+            Sausage Pizza
+        </a>
+    </p>
+
+    <img src="C:\Users\LENOVO\Pictures\pizza.jpg">
+</div>
+
+
+<div class="favorite">
+    <h2>🦇 Favorite Movie</h2>
+
+    <p>
+        <a href="https://www.hdfilmcehennemi.nl/batman-kara-sovalye-hd-film-izle-hdf-hdf-7/">
+            The Dark Knight
+        </a>
+    </p>
+
+    <img src="C:\Users\LENOVO\Pictures\The Dark Knight.jpg">
+</div>
+
+
+<footer>
+    <p>Thx for visiting my page</p>
+</footer>
+
+</body>
+</html> 
